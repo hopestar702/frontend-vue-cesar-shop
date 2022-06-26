@@ -1,11 +1,3 @@
-# Vue Advanced Workshop
-
-This is the companion repository to the Vue Advanced Workshop.
-
-## Prerequisites
-
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en/) version 6+
 
 ## Setup
 
